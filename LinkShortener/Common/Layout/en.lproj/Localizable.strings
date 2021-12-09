@@ -1,0 +1,13 @@
+"locale" = "en-US";
+
+"link.shortener.title" = "Link Shortener";
+"link.shortener.copy" = "Link copied to clipboard";
+
+"link.textfield.placeholder" = "Enter your link to be shortened";
+"link.textfield.send.error" = "Unable to shorten your link";
+"link.textfield.save.error" = "Unable to save your link in the list";
+
+"link.list.recent.title" = "Recent URLs";
+"link.list.error.title" = "Looks like there was an error!";
+"link.list.error.message" = "Try again later.";
+"link.list.error.button" = "Try again";

@@ -1,0 +1,13 @@
+{
+  "data" : [
+    {
+      "filename" : "json_url_recent_list.json",
+      "idiom" : "universal",
+      "universal-type-identifier" : "public.json"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

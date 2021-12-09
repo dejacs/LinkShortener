@@ -1,0 +1,6 @@
+framework module Pods_NetworkCore {
+  umbrella header "Pods-NetworkCore-umbrella.h"
+
+  export *
+  module * { export * }
+}

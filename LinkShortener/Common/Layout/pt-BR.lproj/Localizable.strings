@@ -1,0 +1,13 @@
+"locale" = "pt-BR";
+
+"link.shortener.title" = "Encurtador de Links";
+"link.shortener.copy" = "Link copiado para a área de transferência";
+
+"link.textfield.placeholder" = "Digite seu link a ser encurtado";
+"link.textfield.send.error" = "Não foi possível encurtar seu link";
+"link.textfield.save.error" = "Não foi possível salvar seu link na lista";
+
+"link.list.recent.title" = "URLs Recentes";
+"link.list.error.title" = "Parece que houve um erro!";
+"link.list.error.message" = "Tente novamente mais tarde.";
+"link.list.error.button" = "Tentar novamente";

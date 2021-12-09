@@ -1,0 +1,44 @@
+[
+    {
+        "alias": "29259",
+        "_links": {
+                "self": "Www.medium.com",
+                "short": "https://url-shortener-nu.herokuapp.com/short/29259"
+            }
+    },
+    {
+        "alias": "71115",
+        "_links": {
+                "self": "Www.google.com",
+                "short": "https://url-shortener-nu.herokuapp.com/short/71115"
+            }
+    },
+    {
+        "alias": "65000",
+        "_links": {
+                "self": "https://cocoacasts.com/ud-3-how-to-store-an-array-in-user-defaults-in-swift",
+                "short": "https://url-shortener-nu.herokuapp.com/short/65000"
+            }
+    },
+    {
+        "alias": "72996",
+        "_links": {
+                "self": "https://docs.fastlane.tools/getting-started/ios/setup/",
+                "short": "https://url-shortener-nu.herokuapp.com/short/72996"
+            }
+    },
+    {
+        "alias": "84494",
+        "_links": {
+                "self": "https://www.google.com/search?q=ruby+code&rlz=1C5CHFA_enBR976BR976&oq=ruby+code&aqs=chrome..69i57j0i512l4j69i64l3.6300j0j7&sourceid=chrome&ie=UTF-8",
+                "short": "https://url-shortener-nu.herokuapp.com/short/84494"
+            }
+    },
+    {
+        "alias": "31959",
+        "_links": {
+                "self": "www.google.com",
+                "short": "https://url-shortener-nu.herokuapp.com/short/31959"
+            }
+    }
+]
